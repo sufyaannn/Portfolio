@@ -253,16 +253,16 @@ body{
 
 @keyframes slider {
     0% {
-        background-image: url(/img/home1.jpg); /* Start with home1.jpg */
+        background-image: url(img/home1.jpg); /* Start with home1.jpg */
     }
     40% {
-        background-image: url(/img/home1.jpg); /* Hold home1.jpg for 40% of the animation */
+        background-image: url(img/home1.jpg); /* Hold home1.jpg for 40% of the animation */
     }
     60% {
-        background-image: url(/img/home.jpg); /* Change to home.jpg at 60% */
+        background-image: url(img/home.jpg); /* Change to home.jpg at 60% */
     }
     100% {
-        background-image: url(/img/home.jpg); /* Hold home.jpg for the remaining time */
+        background-image: url(img/home.jpg); /* Hold home.jpg for the remaining time */
     }
 }
 
